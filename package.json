@@ -1,0 +1,8 @@
+{
+  "name": "command-center",
+  "version": "1.0.0",
+  "description": "Command Center — Shared Project Dashboard",
+  "dependencies": {
+    "@netlify/neon": "^0.1.0"
+  }
+}
